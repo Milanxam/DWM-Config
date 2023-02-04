@@ -1,6 +1,8 @@
 
 ## Patches and features
 
+smy lightly modified version of Lukesmiths DWM Config
+
     1. Clickable statusbar with my build of dwmblocks.
     2. Reads xresources colors/variables (i.e. works with pywal, etc.).
     3. scratchpad: Accessible with mod+shift+enter.
