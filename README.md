@@ -1,7 +1,7 @@
 
 ## Patches and features
 
-my lightly modified version of Lukesmith's DWM Config  aaaaa
+my lightly modified version of Lukesmith's DWM Config  aaaa
 
 ### Features:
 
